@@ -1,0 +1,13 @@
+C:\Users\kotha\source\repos\employee\bin\Debug\netcoreapp3.1\employee.exe
+C:\Users\kotha\source\repos\employee\bin\Debug\netcoreapp3.1\employee.deps.json
+C:\Users\kotha\source\repos\employee\bin\Debug\netcoreapp3.1\employee.runtimeconfig.json
+C:\Users\kotha\source\repos\employee\bin\Debug\netcoreapp3.1\employee.runtimeconfig.dev.json
+C:\Users\kotha\source\repos\employee\bin\Debug\netcoreapp3.1\employee.dll
+C:\Users\kotha\source\repos\employee\bin\Debug\netcoreapp3.1\employee.pdb
+C:\Users\kotha\source\repos\employee\obj\Debug\netcoreapp3.1\employee.csproj.AssemblyReference.cache
+C:\Users\kotha\source\repos\employee\obj\Debug\netcoreapp3.1\employee.AssemblyInfoInputs.cache
+C:\Users\kotha\source\repos\employee\obj\Debug\netcoreapp3.1\employee.AssemblyInfo.cs
+C:\Users\kotha\source\repos\employee\obj\Debug\netcoreapp3.1\employee.csproj.CoreCompileInputs.cache
+C:\Users\kotha\source\repos\employee\obj\Debug\netcoreapp3.1\employee.dll
+C:\Users\kotha\source\repos\employee\obj\Debug\netcoreapp3.1\employee.pdb
+C:\Users\kotha\source\repos\employee\obj\Debug\netcoreapp3.1\employee.genruntimeconfig.cache
